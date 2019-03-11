@@ -1,5 +1,6 @@
-import java.util.ArrayList;
 import java.util.Random;
+
+//All code from Mark Mauro, Not properly finished to my liking either
 
 public class crypto {
 
